@@ -1,0 +1,931 @@
+2025-11-27 00:18:48,263 - INFO - Starting async scraper for ebooks.az
+2025-11-27 00:18:48,263 - INFO - Total categories to scrape: 34
+2025-11-27 00:18:48,263 - INFO - 
+[1/34] Processing category: /az/category/philosophy
+2025-11-27 00:18:48,263 - INFO - 
+Scraping category: philosophy
+2025-11-27 00:18:48,395 - INFO -   Total pages detected: 8
+2025-11-27 00:18:48,402 - INFO -   Page 1/8: Found 10 books
+2025-11-27 00:18:48,511 - INFO -   Page 2/8: Found 10 books
+2025-11-27 00:18:49,129 - INFO -   Page 3/8: Found 10 books
+2025-11-27 00:18:49,769 - INFO -   Page 4/8: Found 10 books
+2025-11-27 00:18:50,389 - INFO -   Page 5/8: Found 10 books
+2025-11-27 00:18:51,010 - INFO -   Page 6/8: Found 10 books
+2025-11-27 00:18:51,637 - INFO -   Page 7/8: Found 10 books
+2025-11-27 00:18:52,249 - INFO -   Page 8/8: Found 10 books
+2025-11-27 00:18:52,750 - INFO -   Category total: 80 books
+2025-11-27 00:18:52,750 - INFO -   Fetching detailed information for 80 books...
+2025-11-27 00:18:56,156 - INFO -   Completed category philosophy: 80 books with full details
+2025-11-27 00:18:56,156 - INFO - Overall total: 80 books
+2025-11-27 00:18:58,157 - INFO - 
+[2/34] Processing category: /az/category/history
+2025-11-27 00:18:58,157 - INFO - 
+Scraping category: history
+2025-11-27 00:18:58,346 - INFO -   Total pages detected: 29
+2025-11-27 00:18:58,354 - INFO -   Page 1/29: Found 10 books
+2025-11-27 00:18:58,544 - INFO -   Page 2/29: Found 10 books
+2025-11-27 00:18:59,230 - INFO -   Page 3/29: Found 10 books
+2025-11-27 00:18:59,926 - INFO -   Page 4/29: Found 10 books
+2025-11-27 00:19:00,647 - INFO -   Page 5/29: Found 10 books
+2025-11-27 00:19:01,363 - INFO -   Page 6/29: Found 10 books
+2025-11-27 00:19:02,061 - INFO -   Page 7/29: Found 10 books
+2025-11-27 00:19:02,758 - INFO -   Page 8/29: Found 10 books
+2025-11-27 00:19:03,443 - INFO -   Page 9/29: Found 10 books
+2025-11-27 00:19:04,143 - INFO -   Page 10/29: Found 10 books
+2025-11-27 00:19:04,839 - INFO -   Page 11/29: Found 10 books
+2025-11-27 00:19:05,559 - INFO -   Page 12/29: Found 10 books
+2025-11-27 00:19:06,250 - INFO -   Page 13/29: Found 10 books
+2025-11-27 00:19:06,957 - INFO -   Page 14/29: Found 10 books
+2025-11-27 00:19:07,651 - INFO -   Page 15/29: Found 10 books
+2025-11-27 00:19:08,346 - INFO -   Page 16/29: Found 10 books
+2025-11-27 00:19:09,044 - INFO -   Page 17/29: Found 10 books
+2025-11-27 00:19:09,743 - INFO -   Page 18/29: Found 10 books
+2025-11-27 00:19:10,450 - INFO -   Page 19/29: Found 10 books
+2025-11-27 00:19:11,146 - INFO -   Page 20/29: Found 10 books
+2025-11-27 00:19:11,850 - INFO -   Page 21/29: Found 10 books
+2025-11-27 00:19:12,548 - INFO -   Page 22/29: Found 10 books
+2025-11-27 00:19:13,243 - INFO -   Page 23/29: Found 10 books
+2025-11-27 00:19:13,958 - INFO -   Page 24/29: Found 10 books
+2025-11-27 00:19:14,656 - INFO -   Page 25/29: Found 10 books
+2025-11-27 00:19:15,356 - INFO -   Page 26/29: Found 10 books
+2025-11-27 00:19:16,267 - INFO -   Page 27/29: Found 10 books
+2025-11-27 00:19:17,055 - INFO -   Page 28/29: Found 10 books
+2025-11-27 00:19:18,007 - INFO -   Page 29/29: Found 3 books
+2025-11-27 00:19:18,509 - INFO -   Category total: 283 books
+2025-11-27 00:19:18,509 - INFO -   Fetching detailed information for 283 books...
+2025-11-27 00:19:35,549 - INFO -   Completed category history: 283 books with full details
+2025-11-27 00:19:35,549 - INFO - Overall total: 363 books
+2025-11-27 00:19:37,550 - INFO - 
+[3/34] Processing category: /az/category/historyaz
+2025-11-27 00:19:37,550 - INFO - 
+Scraping category: historyaz
+2025-11-27 00:19:38,116 - INFO -   Total pages detected: 132
+2025-11-27 00:19:38,126 - INFO -   Page 1/132: Found 10 books
+2025-11-27 00:19:38,725 - INFO -   Page 2/132: Found 10 books
+2025-11-27 00:19:39,813 - INFO -   Page 3/132: Found 10 books
+2025-11-27 00:19:40,904 - INFO -   Page 4/132: Found 10 books
+2025-11-27 00:19:42,015 - INFO -   Page 5/132: Found 10 books
+2025-11-27 00:19:43,101 - INFO -   Page 6/132: Found 10 books
+2025-11-27 00:19:44,152 - INFO -   Page 7/132: Found 10 books
+2025-11-27 00:19:45,385 - INFO -   Page 8/132: Found 10 books
+2025-11-27 00:19:46,465 - INFO -   Page 9/132: Found 10 books
+2025-11-27 00:19:47,573 - INFO -   Page 10/132: Found 10 books
+2025-11-27 00:19:48,620 - INFO -   Page 11/132: Found 10 books
+2025-11-27 00:19:49,767 - INFO -   Page 12/132: Found 10 books
+2025-11-27 00:19:50,891 - INFO -   Page 13/132: Found 10 books
+2025-11-27 00:19:52,019 - INFO -   Page 14/132: Found 10 books
+2025-11-27 00:19:53,102 - INFO -   Page 15/132: Found 10 books
+2025-11-27 00:19:54,154 - INFO -   Page 16/132: Found 10 books
+2025-11-27 00:19:55,205 - INFO -   Page 17/132: Found 10 books
+2025-11-27 00:19:56,282 - INFO -   Page 18/132: Found 10 books
+2025-11-27 00:19:57,377 - INFO -   Page 19/132: Found 10 books
+2025-11-27 00:19:58,571 - INFO -   Page 20/132: Found 10 books
+2025-11-27 00:19:59,700 - INFO -   Page 21/132: Found 10 books
+2025-11-27 00:20:00,826 - INFO -   Page 22/132: Found 10 books
+2025-11-27 00:20:01,952 - INFO -   Page 23/132: Found 10 books
+2025-11-27 00:20:03,077 - INFO -   Page 24/132: Found 10 books
+2025-11-27 00:20:04,163 - INFO -   Page 25/132: Found 10 books
+2025-11-27 00:20:05,276 - INFO -   Page 26/132: Found 10 books
+2025-11-27 00:20:06,433 - INFO -   Page 27/132: Found 10 books
+2025-11-27 00:20:07,514 - INFO -   Page 28/132: Found 10 books
+2025-11-27 00:20:08,605 - INFO -   Page 29/132: Found 10 books
+2025-11-27 00:20:09,669 - INFO -   Page 30/132: Found 10 books
+2025-11-27 00:20:10,765 - INFO -   Page 31/132: Found 10 books
+2025-11-27 00:20:11,818 - INFO -   Page 32/132: Found 10 books
+2025-11-27 00:20:12,906 - INFO -   Page 33/132: Found 10 books
+2025-11-27 00:20:14,035 - INFO -   Page 34/132: Found 10 books
+2025-11-27 00:20:15,157 - INFO -   Page 35/132: Found 10 books
+2025-11-27 00:20:16,289 - INFO -   Page 36/132: Found 10 books
+2025-11-27 00:20:17,414 - INFO -   Page 37/132: Found 10 books
+2025-11-27 00:20:18,540 - INFO -   Page 38/132: Found 10 books
+2025-11-27 00:20:19,618 - INFO -   Page 39/132: Found 10 books
+2025-11-27 00:20:20,790 - INFO -   Page 40/132: Found 10 books
+2025-11-27 00:20:21,829 - INFO -   Page 41/132: Found 10 books
+2025-11-27 00:20:22,914 - INFO -   Page 42/132: Found 10 books
+2025-11-27 00:20:24,040 - INFO -   Page 43/132: Found 10 books
+2025-11-27 00:20:25,110 - INFO -   Page 44/132: Found 10 books
+2025-11-27 00:20:26,168 - INFO -   Page 45/132: Found 10 books
+2025-11-27 00:20:27,225 - INFO -   Page 46/132: Found 10 books
+2025-11-27 00:20:28,305 - INFO -   Page 47/132: Found 10 books
+2025-11-27 00:20:29,435 - INFO -   Page 48/132: Found 10 books
+2025-11-27 00:20:30,524 - INFO -   Page 49/132: Found 10 books
+2025-11-27 00:20:31,645 - INFO -   Page 50/132: Found 10 books
+2025-11-27 00:20:32,730 - INFO -   Page 51/132: Found 10 books
+2025-11-27 00:20:33,899 - INFO -   Page 52/132: Found 10 books
+2025-11-27 00:20:34,996 - INFO -   Page 53/132: Found 10 books
+2025-11-27 00:20:36,107 - INFO -   Page 54/132: Found 10 books
+2025-11-27 00:20:37,172 - INFO -   Page 55/132: Found 10 books
+2025-11-27 00:20:38,222 - INFO -   Page 56/132: Found 10 books
+2025-11-27 00:20:39,316 - INFO -   Page 57/132: Found 10 books
+2025-11-27 00:20:40,364 - INFO -   Page 58/132: Found 10 books
+2025-11-27 00:20:41,404 - INFO -   Page 59/132: Found 10 books
+2025-11-27 00:20:42,457 - INFO -   Page 60/132: Found 10 books
+2025-11-27 00:20:43,547 - INFO -   Page 61/132: Found 10 books
+2025-11-27 00:20:44,587 - INFO -   Page 62/132: Found 10 books
+2025-11-27 00:20:45,719 - INFO -   Page 63/132: Found 10 books
+2025-11-27 00:20:46,845 - INFO -   Page 64/132: Found 10 books
+2025-11-27 00:20:47,921 - INFO -   Page 65/132: Found 10 books
+2025-11-27 00:20:49,039 - INFO -   Page 66/132: Found 10 books
+2025-11-27 00:20:50,106 - INFO -   Page 67/132: Found 10 books
+2025-11-27 00:20:51,203 - INFO -   Page 68/132: Found 10 books
+2025-11-27 00:20:52,259 - INFO -   Page 69/132: Found 10 books
+2025-11-27 00:20:53,430 - INFO -   Page 70/132: Found 10 books
+2025-11-27 00:20:54,480 - INFO -   Page 71/132: Found 10 books
+2025-11-27 00:20:55,586 - INFO -   Page 72/132: Found 10 books
+2025-11-27 00:20:56,629 - INFO -   Page 73/132: Found 10 books
+2025-11-27 00:20:57,714 - INFO -   Page 74/132: Found 10 books
+2025-11-27 00:20:58,773 - INFO -   Page 75/132: Found 10 books
+2025-11-27 00:20:59,846 - INFO -   Page 76/132: Found 10 books
+2025-11-27 00:21:00,921 - INFO -   Page 77/132: Found 10 books
+2025-11-27 00:21:01,998 - INFO -   Page 78/132: Found 10 books
+2025-11-27 00:21:03,145 - INFO -   Page 79/132: Found 10 books
+2025-11-27 00:21:04,315 - INFO -   Page 80/132: Found 10 books
+2025-11-27 00:21:05,395 - INFO -   Page 81/132: Found 10 books
+2025-11-27 00:21:06,536 - INFO -   Page 82/132: Found 10 books
+2025-11-27 00:21:07,623 - INFO -   Page 83/132: Found 10 books
+2025-11-27 00:21:08,747 - INFO -   Page 84/132: Found 10 books
+2025-11-27 00:21:09,836 - INFO -   Page 85/132: Found 10 books
+2025-11-27 00:21:10,968 - INFO -   Page 86/132: Found 10 books
+2025-11-27 00:21:12,015 - INFO -   Page 87/132: Found 10 books
+2025-11-27 00:21:13,055 - INFO -   Page 88/132: Found 10 books
+2025-11-27 00:21:14,130 - INFO -   Page 89/132: Found 10 books
+2025-11-27 00:21:15,228 - INFO -   Page 90/132: Found 10 books
+2025-11-27 00:21:16,293 - INFO -   Page 91/132: Found 10 books
+2025-11-27 00:21:17,340 - INFO -   Page 92/132: Found 10 books
+2025-11-27 00:21:18,396 - INFO -   Page 93/132: Found 10 books
+2025-11-27 00:21:19,456 - INFO -   Page 94/132: Found 10 books
+2025-11-27 00:21:20,552 - INFO -   Page 95/132: Found 10 books
+2025-11-27 00:21:21,644 - INFO -   Page 96/132: Found 10 books
+2025-11-27 00:21:22,734 - INFO -   Page 97/132: Found 10 books
+2025-11-27 00:21:23,869 - INFO -   Page 98/132: Found 10 books
+2025-11-27 00:21:24,982 - INFO -   Page 99/132: Found 10 books
+2025-11-27 00:21:26,096 - INFO -   Page 100/132: Found 10 books
+2025-11-27 00:21:27,201 - INFO -   Page 101/132: Found 10 books
+2025-11-27 00:21:28,285 - INFO -   Page 102/132: Found 10 books
+2025-11-27 00:21:29,337 - INFO -   Page 103/132: Found 10 books
+2025-11-27 00:21:30,420 - INFO -   Page 104/132: Found 10 books
+2025-11-27 00:21:31,512 - INFO -   Page 105/132: Found 10 books
+2025-11-27 00:21:32,601 - INFO -   Page 106/132: Found 10 books
+2025-11-27 00:21:33,659 - INFO -   Page 107/132: Found 10 books
+2025-11-27 00:21:34,716 - INFO -   Page 108/132: Found 10 books
+2025-11-27 00:21:35,792 - INFO -   Page 109/132: Found 10 books
+2025-11-27 00:21:36,864 - INFO -   Page 110/132: Found 10 books
+2025-11-27 00:21:37,937 - INFO -   Page 111/132: Found 10 books
+2025-11-27 00:21:38,972 - INFO -   Page 112/132: Found 10 books
+2025-11-27 00:21:40,076 - INFO -   Page 113/132: Found 10 books
+2025-11-27 00:21:41,170 - INFO -   Page 114/132: Found 10 books
+2025-11-27 00:21:42,304 - INFO -   Page 115/132: Found 10 books
+2025-11-27 00:21:43,429 - INFO -   Page 116/132: Found 10 books
+2025-11-27 00:21:44,470 - INFO -   Page 117/132: Found 10 books
+2025-11-27 00:21:45,524 - INFO -   Page 118/132: Found 10 books
+2025-11-27 00:21:46,591 - INFO -   Page 119/132: Found 10 books
+2025-11-27 00:21:47,670 - INFO -   Page 120/132: Found 10 books
+2025-11-27 00:21:48,790 - INFO -   Page 121/132: Found 10 books
+2025-11-27 00:21:49,883 - INFO -   Page 122/132: Found 10 books
+2025-11-27 00:21:50,978 - INFO -   Page 123/132: Found 10 books
+2025-11-27 00:21:52,171 - INFO -   Page 124/132: Found 10 books
+2025-11-27 00:21:53,264 - INFO -   Page 125/132: Found 10 books
+2025-11-27 00:21:54,350 - INFO -   Page 126/132: Found 10 books
+2025-11-27 00:21:55,480 - INFO -   Page 127/132: Found 10 books
+2025-11-27 00:21:56,585 - INFO -   Page 128/132: Found 10 books
+2025-11-27 00:21:57,643 - INFO -   Page 129/132: Found 10 books
+2025-11-27 00:21:58,735 - INFO -   Page 130/132: Found 10 books
+2025-11-27 00:21:59,846 - INFO -   Page 131/132: Found 10 books
+2025-11-27 00:22:00,920 - INFO -   Page 132/132: Found 5 books
+2025-11-27 00:22:01,421 - INFO -   Category total: 1315 books
+2025-11-27 00:22:01,422 - INFO -   Fetching detailed information for 1315 books...
+2025-11-27 00:22:53,108 - INFO -   Completed category historyaz: 1315 books with full details
+2025-11-27 00:22:53,108 - INFO - Overall total: 1678 books
+2025-11-27 00:22:55,109 - INFO - 
+[4/34] Processing category: /az/category/sociology
+2025-11-27 00:22:55,110 - INFO - 
+Scraping category: sociology
+2025-11-27 00:22:55,236 - INFO -   Total pages detected: 5
+2025-11-27 00:22:55,247 - INFO -   Page 1/5: Found 10 books
+2025-11-27 00:22:55,356 - INFO -   Page 2/5: Found 10 books
+2025-11-27 00:22:55,970 - INFO -   Page 3/5: Found 10 books
+2025-11-27 00:22:56,586 - INFO -   Page 4/5: Found 10 books
+2025-11-27 00:22:57,198 - INFO -   Page 5/5: Found 4 books
+2025-11-27 00:22:57,700 - INFO -   Category total: 44 books
+2025-11-27 00:22:57,700 - INFO -   Fetching detailed information for 44 books...
+2025-11-27 00:22:59,595 - INFO -   Completed category sociology: 44 books with full details
+2025-11-27 00:22:59,595 - INFO - Overall total: 1722 books
+2025-11-27 00:23:01,596 - INFO - 
+[5/34] Processing category: /az/category/ethnography
+2025-11-27 00:23:01,597 - INFO - 
+Scraping category: ethnography
+2025-11-27 00:23:01,705 - INFO -   Total pages detected: 5
+2025-11-27 00:23:01,717 - INFO -   Page 1/5: Found 10 books
+2025-11-27 00:23:01,815 - INFO -   Page 2/5: Found 10 books
+2025-11-27 00:23:02,421 - INFO -   Page 3/5: Found 10 books
+2025-11-27 00:23:03,043 - INFO -   Page 4/5: Found 10 books
+2025-11-27 00:23:03,675 - INFO -   Page 5/5: Found 5 books
+2025-11-27 00:23:04,176 - INFO -   Category total: 45 books
+2025-11-27 00:23:04,176 - INFO -   Fetching detailed information for 45 books...
+2025-11-27 00:23:06,606 - INFO -   Completed category ethnography: 45 books with full details
+2025-11-27 00:23:06,607 - INFO - Overall total: 1767 books
+2025-11-27 00:23:08,608 - INFO - 
+[6/34] Processing category: /az/category/economy
+2025-11-27 00:23:08,608 - INFO - 
+Scraping category: economy
+2025-11-27 00:23:08,801 - INFO -   Total pages detected: 24
+2025-11-27 00:23:08,809 - INFO -   Page 1/24: Found 10 books
+2025-11-27 00:23:08,981 - INFO -   Page 2/24: Found 10 books
+2025-11-27 00:23:09,656 - INFO -   Page 3/24: Found 10 books
+2025-11-27 00:23:10,334 - INFO -   Page 4/24: Found 10 books
+2025-11-27 00:23:11,011 - INFO -   Page 5/24: Found 10 books
+2025-11-27 00:23:11,696 - INFO -   Page 6/24: Found 10 books
+2025-11-27 00:23:12,416 - INFO -   Page 7/24: Found 10 books
+2025-11-27 00:23:13,100 - INFO -   Page 8/24: Found 10 books
+2025-11-27 00:23:13,790 - INFO -   Page 9/24: Found 10 books
+2025-11-27 00:23:14,523 - INFO -   Page 10/24: Found 10 books
+2025-11-27 00:23:15,223 - INFO -   Page 11/24: Found 10 books
+2025-11-27 00:23:15,920 - INFO -   Page 12/24: Found 10 books
+2025-11-27 00:23:16,615 - INFO -   Page 13/24: Found 10 books
+2025-11-27 00:23:17,307 - INFO -   Page 14/24: Found 10 books
+2025-11-27 00:23:18,000 - INFO -   Page 15/24: Found 10 books
+2025-11-27 00:23:18,693 - INFO -   Page 16/24: Found 10 books
+2025-11-27 00:23:19,377 - INFO -   Page 17/24: Found 10 books
+2025-11-27 00:23:20,068 - INFO -   Page 18/24: Found 10 books
+2025-11-27 00:23:20,758 - INFO -   Page 19/24: Found 10 books
+2025-11-27 00:23:21,460 - INFO -   Page 20/24: Found 10 books
+2025-11-27 00:23:22,158 - INFO -   Page 21/24: Found 10 books
+2025-11-27 00:23:22,862 - INFO -   Page 22/24: Found 10 books
+2025-11-27 00:23:23,569 - INFO -   Page 23/24: Found 10 books
+2025-11-27 00:23:24,247 - INFO -   Page 24/24: Found 10 books
+2025-11-27 00:23:24,748 - INFO -   Category total: 240 books
+2025-11-27 00:23:24,749 - INFO -   Fetching detailed information for 240 books...
+2025-11-27 00:23:34,407 - INFO -   Completed category economy: 240 books with full details
+2025-11-27 00:23:34,407 - INFO - Overall total: 2007 books
+2025-11-27 00:23:36,408 - INFO - 
+[7/34] Processing category: /az/category/law
+2025-11-27 00:23:36,409 - INFO - 
+Scraping category: law
+2025-11-27 00:23:36,559 - INFO -   Total pages detected: 19
+2025-11-27 00:23:36,570 - INFO -   Page 1/19: Found 10 books
+2025-11-27 00:23:36,714 - INFO -   Page 2/19: Found 10 books
+2025-11-27 00:23:37,403 - INFO -   Page 3/19: Found 10 books
+2025-11-27 00:23:38,067 - INFO -   Page 4/19: Found 10 books
+2025-11-27 00:23:38,736 - INFO -   Page 5/19: Found 10 books
+2025-11-27 00:23:39,403 - INFO -   Page 6/19: Found 10 books
+2025-11-27 00:23:40,064 - INFO -   Page 7/19: Found 10 books
+2025-11-27 00:23:40,726 - INFO -   Page 8/19: Found 10 books
+2025-11-27 00:23:41,396 - INFO -   Page 9/19: Found 10 books
+2025-11-27 00:23:42,060 - INFO -   Page 10/19: Found 10 books
+2025-11-27 00:23:42,722 - INFO -   Page 11/19: Found 10 books
+2025-11-27 00:23:43,396 - INFO -   Page 12/19: Found 10 books
+2025-11-27 00:23:44,046 - INFO -   Page 13/19: Found 10 books
+2025-11-27 00:23:44,738 - INFO -   Page 14/19: Found 10 books
+2025-11-27 00:23:45,408 - INFO -   Page 15/19: Found 10 books
+2025-11-27 00:23:46,069 - INFO -   Page 16/19: Found 10 books
+2025-11-27 00:23:46,744 - INFO -   Page 17/19: Found 10 books
+2025-11-27 00:23:47,409 - INFO -   Page 18/19: Found 10 books
+2025-11-27 00:23:48,066 - INFO -   Page 19/19: Found 3 books
+2025-11-27 00:23:48,567 - INFO -   Category total: 183 books
+2025-11-27 00:23:48,568 - INFO -   Fetching detailed information for 183 books...
+2025-11-27 00:23:55,391 - INFO -   Completed category law: 183 books with full details
+2025-11-27 00:23:55,391 - INFO - Overall total: 2190 books
+2025-11-27 00:23:57,392 - INFO - 
+[8/34] Processing category: /az/category/politics
+2025-11-27 00:23:57,393 - INFO - 
+Scraping category: politics
+2025-11-27 00:23:57,876 - INFO -   Total pages detected: 77
+2025-11-27 00:23:57,887 - INFO -   Page 1/77: Found 10 books
+2025-11-27 00:23:58,290 - INFO -   Page 2/77: Found 10 books
+2025-11-27 00:23:59,185 - INFO -   Page 3/77: Found 10 books
+2025-11-27 00:24:00,132 - INFO -   Page 4/77: Found 10 books
+2025-11-27 00:24:01,075 - INFO -   Page 5/77: Found 10 books
+2025-11-27 00:24:01,976 - INFO -   Page 6/77: Found 10 books
+2025-11-27 00:24:02,837 - INFO -   Page 7/77: Found 10 books
+2025-11-27 00:24:03,821 - INFO -   Page 8/77: Found 10 books
+2025-11-27 00:24:04,740 - INFO -   Page 9/77: Found 10 books
+2025-11-27 00:24:05,660 - INFO -   Page 10/77: Found 10 books
+2025-11-27 00:24:06,580 - INFO -   Page 11/77: Found 10 books
+2025-11-27 00:24:07,456 - INFO -   Page 12/77: Found 10 books
+2025-11-27 00:24:08,427 - INFO -   Page 13/77: Found 10 books
+2025-11-27 00:24:09,347 - INFO -   Page 14/77: Found 10 books
+2025-11-27 00:24:10,272 - INFO -   Page 15/77: Found 10 books
+2025-11-27 00:24:11,192 - INFO -   Page 16/77: Found 10 books
+2025-11-27 00:24:12,076 - INFO -   Page 17/77: Found 10 books
+2025-11-27 00:24:12,965 - INFO -   Page 18/77: Found 10 books
+2025-11-27 00:24:13,836 - INFO -   Page 19/77: Found 10 books
+2025-11-27 00:24:14,711 - INFO -   Page 20/77: Found 10 books
+2025-11-27 00:24:15,628 - INFO -   Page 21/77: Found 10 books
+2025-11-27 00:24:16,508 - INFO -   Page 22/77: Found 10 books
+2025-11-27 00:24:17,362 - INFO -   Page 23/77: Found 10 books
+2025-11-27 00:24:18,258 - INFO -   Page 24/77: Found 10 books
+2025-11-27 00:24:19,176 - INFO -   Page 25/77: Found 10 books
+2025-11-27 00:24:20,105 - INFO -   Page 26/77: Found 10 books
+2025-11-27 00:24:21,019 - INFO -   Page 27/77: Found 10 books
+2025-11-27 00:24:21,942 - INFO -   Page 28/77: Found 10 books
+2025-11-27 00:24:22,868 - INFO -   Page 29/77: Found 10 books
+2025-11-27 00:24:23,889 - INFO -   Page 30/77: Found 10 books
+2025-11-27 00:24:24,727 - INFO -   Page 31/77: Found 10 books
+2025-11-27 00:24:25,598 - INFO -   Page 32/77: Found 10 books
+2025-11-27 00:24:26,445 - INFO -   Page 33/77: Found 10 books
+2025-11-27 00:24:27,344 - INFO -   Page 34/77: Found 10 books
+2025-11-27 00:24:28,200 - INFO -   Page 35/77: Found 10 books
+2025-11-27 00:24:29,263 - INFO -   Page 36/77: Found 10 books
+2025-11-27 00:24:30,239 - INFO -   Page 37/77: Found 10 books
+2025-11-27 00:24:31,086 - INFO -   Page 38/77: Found 10 books
+2025-11-27 00:24:32,083 - INFO -   Page 39/77: Found 10 books
+2025-11-27 00:24:33,008 - INFO -   Page 40/77: Found 10 books
+2025-11-27 00:24:33,928 - INFO -   Page 41/77: Found 10 books
+2025-11-27 00:24:34,845 - INFO -   Page 42/77: Found 10 books
+2025-11-27 00:24:35,767 - INFO -   Page 43/77: Found 10 books
+2025-11-27 00:24:36,805 - INFO -   Page 44/77: Found 10 books
+2025-11-27 00:24:37,669 - INFO -   Page 45/77: Found 10 books
+2025-11-27 00:24:38,534 - INFO -   Page 46/77: Found 10 books
+2025-11-27 00:24:39,439 - INFO -   Page 47/77: Found 10 books
+2025-11-27 00:24:40,478 - INFO -   Page 48/77: Found 10 books
+2025-11-27 00:24:41,477 - INFO -   Page 49/77: Found 10 books
+2025-11-27 00:24:42,424 - INFO -   Page 50/77: Found 10 books
+2025-11-27 00:24:43,349 - INFO -   Page 51/77: Found 10 books
+2025-11-27 00:24:44,209 - INFO -   Page 52/77: Found 10 books
+2025-11-27 00:24:45,154 - INFO -   Page 53/77: Found 10 books
+2025-11-27 00:24:46,109 - INFO -   Page 54/77: Found 10 books
+2025-11-27 00:24:47,032 - INFO -   Page 55/77: Found 10 books
+2025-11-27 00:24:47,877 - INFO -   Page 56/77: Found 10 books
+2025-11-27 00:24:48,875 - INFO -   Page 57/77: Found 10 books
+2025-11-27 00:24:49,899 - INFO -   Page 58/77: Found 10 books
+2025-11-27 00:24:50,820 - INFO -   Page 59/77: Found 10 books
+2025-11-27 00:24:51,742 - INFO -   Page 60/77: Found 10 books
+2025-11-27 00:24:52,596 - INFO -   Page 61/77: Found 10 books
+2025-11-27 00:24:53,586 - INFO -   Page 62/77: Found 10 books
+2025-11-27 00:24:54,586 - INFO -   Page 63/77: Found 10 books
+2025-11-27 00:24:55,534 - INFO -   Page 64/77: Found 10 books
+2025-11-27 00:24:56,452 - INFO -   Page 65/77: Found 10 books
+2025-11-27 00:24:57,309 - INFO -   Page 66/77: Found 10 books
+2025-11-27 00:24:58,296 - INFO -   Page 67/77: Found 10 books
+2025-11-27 00:24:59,219 - INFO -   Page 68/77: Found 10 books
+2025-11-27 00:25:00,138 - INFO -   Page 69/77: Found 10 books
+2025-11-27 00:25:01,059 - INFO -   Page 70/77: Found 10 books
+2025-11-27 00:25:02,089 - INFO -   Page 71/77: Found 10 books
+2025-11-27 00:25:02,961 - INFO -   Page 72/77: Found 10 books
+2025-11-27 00:25:03,924 - INFO -   Page 73/77: Found 10 books
+2025-11-27 00:25:04,816 - INFO -   Page 74/77: Found 10 books
+2025-11-27 00:25:05,687 - INFO -   Page 75/77: Found 10 books
+2025-11-27 00:25:06,692 - INFO -   Page 76/77: Found 10 books
+2025-11-27 00:25:07,608 - INFO -   Page 77/77: Found 4 books
+2025-11-27 00:25:08,109 - INFO -   Category total: 764 books
+2025-11-27 00:25:08,110 - INFO -   Fetching detailed information for 764 books...
+2025-11-27 00:25:37,984 - INFO -   Completed category politics: 764 books with full details
+2025-11-27 00:25:37,984 - INFO - Overall total: 2954 books
+2025-11-27 00:25:39,986 - INFO - 
+[9/34] Processing category: /az/category/education
+2025-11-27 00:25:39,986 - INFO - 
+Scraping category: education
+2025-11-27 00:25:40,157 - INFO -   Total pages detected: 13
+2025-11-27 00:25:40,169 - INFO -   Page 1/13: Found 10 books
+2025-11-27 00:25:40,308 - INFO -   Page 2/13: Found 10 books
+2025-11-27 00:25:40,965 - INFO -   Page 3/13: Found 10 books
+2025-11-27 00:25:41,610 - INFO -   Page 4/13: Found 10 books
+2025-11-27 00:25:42,250 - INFO -   Page 5/13: Found 10 books
+2025-11-27 00:25:42,900 - INFO -   Page 6/13: Found 10 books
+2025-11-27 00:25:43,550 - INFO -   Page 7/13: Found 10 books
+2025-11-27 00:25:44,201 - INFO -   Page 8/13: Found 10 books
+2025-11-27 00:25:44,835 - INFO -   Page 9/13: Found 10 books
+2025-11-27 00:25:45,484 - INFO -   Page 10/13: Found 10 books
+2025-11-27 00:25:46,142 - INFO -   Page 11/13: Found 10 books
+2025-11-27 00:25:46,783 - INFO -   Page 12/13: Found 10 books
+2025-11-27 00:25:47,447 - INFO -   Page 13/13: Found 6 books
+2025-11-27 00:25:47,949 - INFO -   Category total: 126 books
+2025-11-27 00:25:47,949 - INFO -   Fetching detailed information for 126 books...
+2025-11-27 00:25:52,877 - INFO -   Completed category education: 126 books with full details
+2025-11-27 00:25:52,877 - INFO - Overall total: 3080 books
+2025-11-27 00:25:54,878 - INFO - 
+[10/34] Processing category: /az/category/cultourism
+2025-11-27 00:25:54,878 - INFO - 
+Scraping category: cultourism
+2025-11-27 00:25:55,008 - INFO -   Total pages detected: 11
+2025-11-27 00:25:55,017 - INFO -   Page 1/11: Found 10 books
+2025-11-27 00:25:55,144 - INFO -   Page 2/11: Found 10 books
+2025-11-27 00:25:55,777 - INFO -   Page 3/11: Found 10 books
+2025-11-27 00:25:56,413 - INFO -   Page 4/11: Found 10 books
+2025-11-27 00:25:57,042 - INFO -   Page 5/11: Found 10 books
+2025-11-27 00:25:57,676 - INFO -   Page 6/11: Found 10 books
+2025-11-27 00:25:58,317 - INFO -   Page 7/11: Found 10 books
+2025-11-27 00:25:58,948 - INFO -   Page 8/11: Found 10 books
+2025-11-27 00:25:59,587 - INFO -   Page 9/11: Found 10 books
+2025-11-27 00:26:00,215 - INFO -   Page 10/11: Found 10 books
+2025-11-27 00:26:00,846 - INFO -   Page 11/11: Found 4 books
+2025-11-27 00:26:01,347 - INFO -   Category total: 104 books
+2025-11-27 00:26:01,348 - INFO -   Fetching detailed information for 104 books...
+2025-11-27 00:26:06,439 - INFO -   Completed category cultourism: 104 books with full details
+2025-11-27 00:26:06,439 - INFO - Overall total: 3184 books
+2025-11-27 00:26:08,441 - INFO - 
+[11/34] Processing category: /az/category/library
+2025-11-27 00:26:08,441 - INFO - 
+Scraping category: library
+2025-11-27 00:26:08,587 - INFO -   Total pages detected: 11
+2025-11-27 00:26:08,599 - INFO -   Page 1/11: Found 10 books
+2025-11-27 00:26:09,045 - INFO -   Page 2/11: Found 10 books
+2025-11-27 00:26:09,696 - INFO -   Page 3/11: Found 10 books
+2025-11-27 00:26:10,331 - INFO -   Page 4/11: Found 10 books
+2025-11-27 00:26:10,980 - INFO -   Page 5/11: Found 10 books
+2025-11-27 00:26:11,609 - INFO -   Page 6/11: Found 10 books
+2025-11-27 00:26:12,247 - INFO -   Page 7/11: Found 10 books
+2025-11-27 00:26:12,889 - INFO -   Page 8/11: Found 10 books
+2025-11-27 00:26:13,517 - INFO -   Page 9/11: Found 10 books
+2025-11-27 00:26:14,141 - INFO -   Page 10/11: Found 10 books
+2025-11-27 00:26:14,796 - INFO -   Page 11/11: Found 9 books
+2025-11-27 00:26:15,298 - INFO -   Category total: 109 books
+2025-11-27 00:26:15,298 - INFO -   Fetching detailed information for 109 books...
+2025-11-27 00:26:20,188 - INFO -   Completed category library: 109 books with full details
+2025-11-27 00:26:20,188 - INFO - Overall total: 3293 books
+2025-11-27 00:26:22,190 - INFO - 
+[12/34] Processing category: /az/category/psikol
+2025-11-27 00:26:22,190 - INFO - 
+Scraping category: psikol
+2025-11-27 00:26:22,299 - INFO -   Total pages detected: 3
+2025-11-27 00:26:22,311 - INFO -   Page 1/3: Found 10 books
+2025-11-27 00:26:22,404 - INFO -   Page 2/3: Found 10 books
+2025-11-27 00:26:23,004 - INFO -   Page 3/3: Found 8 books
+2025-11-27 00:26:23,506 - INFO -   Category total: 28 books
+2025-11-27 00:26:23,506 - INFO -   Fetching detailed information for 28 books...
+2025-11-27 00:26:24,912 - INFO -   Completed category psikol: 28 books with full details
+2025-11-27 00:26:24,912 - INFO - Overall total: 3321 books
+2025-11-27 00:26:26,914 - INFO - 
+[13/34] Processing category: /az/category/luget
+2025-11-27 00:26:26,914 - INFO - 
+Scraping category: luget
+2025-11-27 00:26:27,116 - INFO -   Total pages detected: 25
+2025-11-27 00:26:27,128 - INFO -   Page 1/25: Found 10 books
+2025-11-27 00:26:27,309 - INFO -   Page 2/25: Found 10 books
+2025-11-27 00:26:28,010 - INFO -   Page 3/25: Found 10 books
+2025-11-27 00:26:28,682 - INFO -   Page 4/25: Found 10 books
+2025-11-27 00:26:29,380 - INFO -   Page 5/25: Found 10 books
+2025-11-27 00:26:30,061 - INFO -   Page 6/25: Found 10 books
+2025-11-27 00:26:30,743 - INFO -   Page 7/25: Found 10 books
+2025-11-27 00:26:31,426 - INFO -   Page 8/25: Found 10 books
+2025-11-27 00:26:32,113 - INFO -   Page 9/25: Found 10 books
+2025-11-27 00:26:32,801 - INFO -   Page 10/25: Found 10 books
+2025-11-27 00:26:33,487 - INFO -   Page 11/25: Found 10 books
+2025-11-27 00:26:34,193 - INFO -   Page 12/25: Found 10 books
+2025-11-27 00:26:34,882 - INFO -   Page 13/25: Found 10 books
+2025-11-27 00:26:35,555 - INFO -   Page 14/25: Found 10 books
+2025-11-27 00:26:36,256 - INFO -   Page 15/25: Found 10 books
+2025-11-27 00:26:36,975 - INFO -   Page 16/25: Found 10 books
+2025-11-27 00:26:37,668 - INFO -   Page 17/25: Found 10 books
+2025-11-27 00:26:38,364 - INFO -   Page 18/25: Found 10 books
+2025-11-27 00:26:39,048 - INFO -   Page 19/25: Found 10 books
+2025-11-27 00:26:39,735 - INFO -   Page 20/25: Found 10 books
+2025-11-27 00:26:40,426 - INFO -   Page 21/25: Found 10 books
+2025-11-27 00:26:41,118 - INFO -   Page 22/25: Found 10 books
+2025-11-27 00:26:41,814 - INFO -   Page 23/25: Found 10 books
+2025-11-27 00:26:42,507 - INFO -   Page 24/25: Found 10 books
+2025-11-27 00:26:43,189 - INFO -   Page 25/25: Found 1 books
+2025-11-27 00:26:43,691 - INFO -   Category total: 241 books
+2025-11-27 00:26:43,691 - INFO -   Fetching detailed information for 241 books...
+2025-11-27 00:26:52,900 - INFO -   Completed category luget: 241 books with full details
+2025-11-27 00:26:52,900 - INFO - Overall total: 3562 books
+2025-11-27 00:26:54,902 - INFO - 
+[14/34] Processing category: /az/category/philology
+2025-11-27 00:26:54,902 - INFO - 
+Scraping category: philology
+2025-11-27 00:26:55,149 - INFO -   Total pages detected: 45
+2025-11-27 00:26:55,158 - INFO -   Page 1/45: Found 10 books
+2025-11-27 00:26:55,390 - INFO -   Page 2/45: Found 10 books
+2025-11-27 00:26:56,138 - INFO -   Page 3/45: Found 10 books
+2025-11-27 00:26:56,900 - INFO -   Page 4/45: Found 10 books
+2025-11-27 00:26:57,659 - INFO -   Page 5/45: Found 10 books
+2025-11-27 00:26:58,419 - INFO -   Page 6/45: Found 10 books
+2025-11-27 00:26:59,177 - INFO -   Page 7/45: Found 10 books
+2025-11-27 00:26:59,968 - INFO -   Page 8/45: Found 10 books
+2025-11-27 00:27:00,722 - INFO -   Page 9/45: Found 10 books
+2025-11-27 00:27:01,496 - INFO -   Page 10/45: Found 10 books
+2025-11-27 00:27:02,256 - INFO -   Page 11/45: Found 10 books
+2025-11-27 00:27:03,006 - INFO -   Page 12/45: Found 10 books
+2025-11-27 00:27:03,766 - INFO -   Page 13/45: Found 10 books
+2025-11-27 00:27:04,554 - INFO -   Page 14/45: Found 10 books
+2025-11-27 00:27:05,326 - INFO -   Page 15/45: Found 10 books
+2025-11-27 00:27:06,084 - INFO -   Page 16/45: Found 10 books
+2025-11-27 00:27:06,838 - INFO -   Page 17/45: Found 10 books
+2025-11-27 00:27:07,593 - INFO -   Page 18/45: Found 10 books
+2025-11-27 00:27:08,338 - INFO -   Page 19/45: Found 10 books
+2025-11-27 00:27:09,081 - INFO -   Page 20/45: Found 10 books
+2025-11-27 00:27:09,839 - INFO -   Page 21/45: Found 10 books
+2025-11-27 00:27:10,619 - INFO -   Page 22/45: Found 10 books
+2025-11-27 00:27:11,371 - INFO -   Page 23/45: Found 10 books
+2025-11-27 00:27:12,129 - INFO -   Page 24/45: Found 10 books
+2025-11-27 00:27:12,886 - INFO -   Page 25/45: Found 10 books
+2025-11-27 00:27:13,646 - INFO -   Page 26/45: Found 10 books
+2025-11-27 00:27:14,484 - INFO -   Page 27/45: Found 10 books
+2025-11-27 00:27:15,254 - INFO -   Page 28/45: Found 10 books
+2025-11-27 00:27:16,024 - INFO -   Page 29/45: Found 10 books
+2025-11-27 00:27:16,840 - INFO -   Page 30/45: Found 10 books
+2025-11-27 00:27:17,615 - INFO -   Page 31/45: Found 10 books
+2025-11-27 00:27:18,383 - INFO -   Page 32/45: Found 10 books
+2025-11-27 00:27:19,116 - INFO -   Page 33/45: Found 10 books
+2025-11-27 00:27:19,889 - INFO -   Page 34/45: Found 10 books
+2025-11-27 00:27:20,656 - INFO -   Page 35/45: Found 10 books
+2025-11-27 00:27:21,425 - INFO -   Page 36/45: Found 10 books
+2025-11-27 00:27:22,224 - INFO -   Page 37/45: Found 10 books
+2025-11-27 00:27:23,089 - INFO -   Page 38/45: Found 10 books
+2025-11-27 00:27:23,857 - INFO -   Page 39/45: Found 10 books
+2025-11-27 00:27:24,636 - INFO -   Page 40/45: Found 10 books
+2025-11-27 00:27:25,418 - INFO -   Page 41/45: Found 10 books
+2025-11-27 00:27:26,169 - INFO -   Page 42/45: Found 10 books
+2025-11-27 00:27:26,990 - INFO -   Page 43/45: Found 10 books
+2025-11-27 00:27:27,746 - INFO -   Page 44/45: Found 10 books
+2025-11-27 00:27:28,530 - INFO -   Page 45/45: Found 4 books
+2025-11-27 00:27:29,032 - INFO -   Category total: 444 books
+2025-11-27 00:27:29,032 - INFO -   Fetching detailed information for 444 books...
+2025-11-27 00:27:46,966 - INFO -   Completed category philology: 444 books with full details
+2025-11-27 00:27:46,966 - INFO - Overall total: 4006 books
+2025-11-27 00:27:48,967 - INFO - 
+[15/34] Processing category: /az/category/folklor
+2025-11-27 00:27:48,968 - INFO - 
+Scraping category: folklor
+2025-11-27 00:27:49,179 - INFO -   Total pages detected: 27
+2025-11-27 00:27:49,191 - INFO -   Page 1/27: Found 10 books
+2025-11-27 00:27:49,369 - INFO -   Page 2/27: Found 10 books
+2025-11-27 00:27:50,060 - INFO -   Page 3/27: Found 10 books
+2025-11-27 00:27:50,745 - INFO -   Page 4/27: Found 10 books
+2025-11-27 00:27:51,439 - INFO -   Page 5/27: Found 10 books
+2025-11-27 00:27:52,128 - INFO -   Page 6/27: Found 10 books
+2025-11-27 00:27:52,817 - INFO -   Page 7/27: Found 10 books
+2025-11-27 00:27:53,504 - INFO -   Page 8/27: Found 10 books
+2025-11-27 00:27:54,208 - INFO -   Page 9/27: Found 10 books
+2025-11-27 00:27:54,906 - INFO -   Page 10/27: Found 10 books
+2025-11-27 00:27:55,595 - INFO -   Page 11/27: Found 10 books
+2025-11-27 00:27:56,283 - INFO -   Page 12/27: Found 10 books
+2025-11-27 00:27:56,989 - INFO -   Page 13/27: Found 10 books
+2025-11-27 00:27:57,708 - INFO -   Page 14/27: Found 10 books
+2025-11-27 00:27:58,387 - INFO -   Page 15/27: Found 10 books
+2025-11-27 00:27:59,075 - INFO -   Page 16/27: Found 10 books
+2025-11-27 00:27:59,756 - INFO -   Page 17/27: Found 10 books
+2025-11-27 00:28:00,447 - INFO -   Page 18/27: Found 10 books
+2025-11-27 00:28:01,139 - INFO -   Page 19/27: Found 10 books
+2025-11-27 00:28:01,854 - INFO -   Page 20/27: Found 10 books
+2025-11-27 00:28:02,550 - INFO -   Page 21/27: Found 10 books
+2025-11-27 00:28:03,237 - INFO -   Page 22/27: Found 10 books
+2025-11-27 00:28:03,977 - INFO -   Page 23/27: Found 10 books
+2025-11-27 00:28:04,746 - INFO -   Page 24/27: Found 10 books
+2025-11-27 00:28:05,446 - INFO -   Page 25/27: Found 10 books
+2025-11-27 00:28:06,137 - INFO -   Page 26/27: Found 10 books
+2025-11-27 00:28:06,818 - INFO -   Page 27/27: Found 4 books
+2025-11-27 00:28:07,320 - INFO -   Category total: 264 books
+2025-11-27 00:28:07,320 - INFO -   Fetching detailed information for 264 books...
+2025-11-27 00:28:17,391 - INFO -   Completed category folklor: 264 books with full details
+2025-11-27 00:28:17,392 - INFO - Overall total: 4270 books
+2025-11-27 00:28:19,393 - INFO - 
+[16/34] Processing category: /az/category/belleslettres
+2025-11-27 00:28:19,393 - INFO - 
+Scraping category: belleslettres
+2025-11-27 00:28:19,636 - INFO -   Total pages detected: 40
+2025-11-27 00:28:19,644 - INFO -   Page 1/40: Found 10 books
+2025-11-27 00:28:19,870 - INFO -   Page 2/40: Found 10 books
+2025-11-27 00:28:20,612 - INFO -   Page 3/40: Found 10 books
+2025-11-27 00:28:21,352 - INFO -   Page 4/40: Found 10 books
+2025-11-27 00:28:22,096 - INFO -   Page 5/40: Found 10 books
+2025-11-27 00:28:22,829 - INFO -   Page 6/40: Found 10 books
+2025-11-27 00:28:23,573 - INFO -   Page 7/40: Found 10 books
+2025-11-27 00:28:24,328 - INFO -   Page 8/40: Found 10 books
+2025-11-27 00:28:25,067 - INFO -   Page 9/40: Found 10 books
+2025-11-27 00:28:25,797 - INFO -   Page 10/40: Found 10 books
+2025-11-27 00:28:26,539 - INFO -   Page 11/40: Found 10 books
+2025-11-27 00:28:27,277 - INFO -   Page 12/40: Found 10 books
+2025-11-27 00:28:28,034 - INFO -   Page 13/40: Found 10 books
+2025-11-27 00:28:28,779 - INFO -   Page 14/40: Found 10 books
+2025-11-27 00:28:29,538 - INFO -   Page 15/40: Found 10 books
+2025-11-27 00:28:30,285 - INFO -   Page 16/40: Found 10 books
+2025-11-27 00:28:31,028 - INFO -   Page 17/40: Found 10 books
+2025-11-27 00:28:31,764 - INFO -   Page 18/40: Found 10 books
+2025-11-27 00:28:32,513 - INFO -   Page 19/40: Found 10 books
+2025-11-27 00:28:33,255 - INFO -   Page 20/40: Found 10 books
+2025-11-27 00:28:34,000 - INFO -   Page 21/40: Found 10 books
+2025-11-27 00:28:34,753 - INFO -   Page 22/40: Found 10 books
+2025-11-27 00:28:35,521 - INFO -   Page 23/40: Found 10 books
+2025-11-27 00:28:36,349 - INFO -   Page 24/40: Found 10 books
+2025-11-27 00:28:37,120 - INFO -   Page 25/40: Found 10 books
+2025-11-27 00:28:37,869 - INFO -   Page 26/40: Found 10 books
+2025-11-27 00:28:38,621 - INFO -   Page 27/40: Found 10 books
+2025-11-27 00:28:39,357 - INFO -   Page 28/40: Found 10 books
+2025-11-27 00:28:40,096 - INFO -   Page 29/40: Found 10 books
+2025-11-27 00:28:40,859 - INFO -   Page 30/40: Found 10 books
+2025-11-27 00:28:41,625 - INFO -   Page 31/40: Found 10 books
+2025-11-27 00:28:42,364 - INFO -   Page 32/40: Found 10 books
+2025-11-27 00:28:43,115 - INFO -   Page 33/40: Found 10 books
+2025-11-27 00:28:43,888 - INFO -   Page 34/40: Found 10 books
+2025-11-27 00:28:44,638 - INFO -   Page 35/40: Found 10 books
+2025-11-27 00:28:45,385 - INFO -   Page 36/40: Found 10 books
+2025-11-27 00:28:46,140 - INFO -   Page 37/40: Found 10 books
+2025-11-27 00:28:46,931 - INFO -   Page 38/40: Found 10 books
+2025-11-27 00:28:47,672 - INFO -   Page 39/40: Found 10 books
+2025-11-27 00:28:48,585 - INFO -   Page 40/40: Found 9 books
+2025-11-27 00:28:49,086 - INFO -   Category total: 399 books
+2025-11-27 00:28:49,087 - INFO -   Fetching detailed information for 399 books...
+2025-11-27 00:29:04,715 - INFO -   Completed category belleslettres: 399 books with full details
+2025-11-27 00:29:04,715 - INFO - Overall total: 4669 books
+2025-11-27 00:29:06,717 - INFO - 
+[17/34] Processing category: /az/category/art
+2025-11-27 00:29:06,717 - INFO - 
+Scraping category: art
+2025-11-27 00:29:06,961 - INFO -   Total pages detected: 29
+2025-11-27 00:29:06,968 - INFO -   Page 1/29: Found 10 books
+2025-11-27 00:29:07,161 - INFO -   Page 2/29: Found 10 books
+2025-11-27 00:29:07,870 - INFO -   Page 3/29: Found 10 books
+2025-11-27 00:29:08,570 - INFO -   Page 4/29: Found 10 books
+2025-11-27 00:29:09,272 - INFO -   Page 5/29: Found 10 books
+2025-11-27 00:29:09,968 - INFO -   Page 6/29: Found 10 books
+2025-11-27 00:29:10,677 - INFO -   Page 7/29: Found 10 books
+2025-11-27 00:29:11,396 - INFO -   Page 8/29: Found 10 books
+2025-11-27 00:29:12,135 - INFO -   Page 9/29: Found 10 books
+2025-11-27 00:29:12,843 - INFO -   Page 10/29: Found 10 books
+2025-11-27 00:29:13,555 - INFO -   Page 11/29: Found 10 books
+2025-11-27 00:29:14,253 - INFO -   Page 12/29: Found 10 books
+2025-11-27 00:29:14,955 - INFO -   Page 13/29: Found 10 books
+2025-11-27 00:29:15,646 - INFO -   Page 14/29: Found 10 books
+2025-11-27 00:29:16,366 - INFO -   Page 15/29: Found 10 books
+2025-11-27 00:29:17,063 - INFO -   Page 16/29: Found 10 books
+2025-11-27 00:29:17,768 - INFO -   Page 17/29: Found 10 books
+2025-11-27 00:29:18,455 - INFO -   Page 18/29: Found 10 books
+2025-11-27 00:29:19,161 - INFO -   Page 19/29: Found 10 books
+2025-11-27 00:29:19,862 - INFO -   Page 20/29: Found 10 books
+2025-11-27 00:29:20,562 - INFO -   Page 21/29: Found 10 books
+2025-11-27 00:29:21,269 - INFO -   Page 22/29: Found 10 books
+2025-11-27 00:29:21,979 - INFO -   Page 23/29: Found 10 books
+2025-11-27 00:29:22,676 - INFO -   Page 24/29: Found 10 books
+2025-11-27 00:29:23,380 - INFO -   Page 25/29: Found 10 books
+2025-11-27 00:29:24,075 - INFO -   Page 26/29: Found 10 books
+2025-11-27 00:29:24,770 - INFO -   Page 27/29: Found 10 books
+2025-11-27 00:29:25,488 - INFO -   Page 28/29: Found 10 books
+2025-11-27 00:29:26,216 - INFO -   Page 29/29: Found 5 books
+2025-11-27 00:29:26,718 - INFO -   Category total: 285 books
+2025-11-27 00:29:26,719 - INFO -   Fetching detailed information for 285 books...
+2025-11-27 00:29:37,864 - INFO -   Completed category art: 285 books with full details
+2025-11-27 00:29:37,864 - INFO - Overall total: 4954 books
+2025-11-27 00:29:39,866 - INFO - 
+[18/34] Processing category: /az/category/journalism
+2025-11-27 00:29:39,867 - INFO - 
+Scraping category: journalism
+2025-11-27 00:29:40,000 - INFO -   Total pages detected: 9
+2025-11-27 00:29:40,012 - INFO -   Page 1/9: Found 10 books
+2025-11-27 00:29:40,122 - INFO -   Page 2/9: Found 10 books
+2025-11-27 00:29:40,752 - INFO -   Page 3/9: Found 10 books
+2025-11-27 00:29:41,385 - INFO -   Page 4/9: Found 10 books
+2025-11-27 00:29:42,031 - INFO -   Page 5/9: Found 10 books
+2025-11-27 00:29:42,667 - INFO -   Page 6/9: Found 10 books
+2025-11-27 00:29:43,307 - INFO -   Page 7/9: Found 10 books
+2025-11-27 00:29:43,928 - INFO -   Page 8/9: Found 10 books
+2025-11-27 00:29:44,557 - INFO -   Page 9/9: Found 10 books
+2025-11-27 00:29:45,060 - INFO -   Category total: 90 books
+2025-11-27 00:29:45,060 - INFO -   Fetching detailed information for 90 books...
+2025-11-27 00:29:48,751 - INFO -   Completed category journalism: 90 books with full details
+2025-11-27 00:29:48,751 - INFO - Overall total: 5044 books
+2025-11-27 00:29:50,753 - INFO - 
+[19/34] Processing category: /az/category/informatics
+2025-11-27 00:29:50,754 - INFO - 
+Scraping category: informatics
+2025-11-27 00:29:50,865 - INFO -   Total pages detected: 4
+2025-11-27 00:29:50,876 - INFO -   Page 1/4: Found 10 books
+2025-11-27 00:29:50,973 - INFO -   Page 2/4: Found 10 books
+2025-11-27 00:29:51,590 - INFO -   Page 3/4: Found 10 books
+2025-11-27 00:29:52,214 - INFO -   Page 4/4: Found 10 books
+2025-11-27 00:29:52,717 - INFO -   Category total: 40 books
+2025-11-27 00:29:52,717 - INFO -   Fetching detailed information for 40 books...
+2025-11-27 00:29:54,557 - INFO -   Completed category informatics: 40 books with full details
+2025-11-27 00:29:54,557 - INFO - Overall total: 5084 books
+2025-11-27 00:29:56,560 - INFO - 
+[20/34] Processing category: /az/category/relijion
+2025-11-27 00:29:56,560 - INFO - 
+Scraping category: relijion
+2025-11-27 00:29:56,671 - INFO -   Total pages detected: 7
+2025-11-27 00:29:56,683 - INFO -   Page 1/7: Found 10 books
+2025-11-27 00:29:56,784 - INFO -   Page 2/7: Found 10 books
+2025-11-27 00:29:57,411 - INFO -   Page 3/7: Found 10 books
+2025-11-27 00:29:58,044 - INFO -   Page 4/7: Found 10 books
+2025-11-27 00:29:58,678 - INFO -   Page 5/7: Found 10 books
+2025-11-27 00:29:59,316 - INFO -   Page 6/7: Found 10 books
+2025-11-27 00:29:59,943 - INFO -   Page 7/7: Found 10 books
+2025-11-27 00:30:00,445 - INFO -   Category total: 70 books
+2025-11-27 00:30:00,446 - INFO -   Fetching detailed information for 70 books...
+2025-11-27 00:30:03,819 - INFO -   Completed category relijion: 70 books with full details
+2025-11-27 00:30:03,819 - INFO - Overall total: 5154 books
+2025-11-27 00:30:05,821 - INFO - 
+[21/34] Processing category: /az/category/natscien
+2025-11-27 00:30:05,822 - INFO - 
+Scraping category: natscien
+2025-11-27 00:30:05,974 - INFO -   Total pages detected: 14
+2025-11-27 00:30:05,984 - INFO -   Page 1/14: Found 10 books
+2025-11-27 00:30:06,115 - INFO -   Page 2/14: Found 10 books
+2025-11-27 00:30:06,770 - INFO -   Page 3/14: Found 10 books
+2025-11-27 00:30:07,427 - INFO -   Page 4/14: Found 10 books
+2025-11-27 00:30:08,170 - INFO -   Page 5/14: Found 10 books
+2025-11-27 00:30:08,821 - INFO -   Page 6/14: Found 10 books
+2025-11-27 00:30:09,468 - INFO -   Page 7/14: Found 10 books
+2025-11-27 00:30:10,109 - INFO -   Page 8/14: Found 10 books
+2025-11-27 00:30:10,758 - INFO -   Page 9/14: Found 10 books
+2025-11-27 00:30:11,420 - INFO -   Page 10/14: Found 10 books
+2025-11-27 00:30:12,076 - INFO -   Page 11/14: Found 10 books
+2025-11-27 00:30:12,733 - INFO -   Page 12/14: Found 10 books
+2025-11-27 00:30:13,386 - INFO -   Page 13/14: Found 10 books
+2025-11-27 00:30:14,027 - INFO -   Page 14/14: Found 5 books
+2025-11-27 00:30:14,530 - INFO -   Category total: 135 books
+2025-11-27 00:30:14,530 - INFO -   Fetching detailed information for 135 books...
+2025-11-27 00:30:20,954 - INFO -   Completed category natscien: 135 books with full details
+2025-11-27 00:30:20,954 - INFO - Overall total: 5289 books
+2025-11-27 00:30:22,956 - INFO - 
+[22/34] Processing category: /az/category/oil
+2025-11-27 00:30:22,957 - INFO - 
+Scraping category: oil
+2025-11-27 00:30:23,094 - INFO -   Total pages detected: 10
+2025-11-27 00:30:23,105 - INFO -   Page 1/10: Found 10 books
+2025-11-27 00:30:23,228 - INFO -   Page 2/10: Found 10 books
+2025-11-27 00:30:23,868 - INFO -   Page 3/10: Found 10 books
+2025-11-27 00:30:24,501 - INFO -   Page 4/10: Found 10 books
+2025-11-27 00:30:25,136 - INFO -   Page 5/10: Found 10 books
+2025-11-27 00:30:25,774 - INFO -   Page 6/10: Found 10 books
+2025-11-27 00:30:26,421 - INFO -   Page 7/10: Found 10 books
+2025-11-27 00:30:27,051 - INFO -   Page 8/10: Found 10 books
+2025-11-27 00:30:27,682 - INFO -   Page 9/10: Found 10 books
+2025-11-27 00:30:28,307 - INFO -   Page 10/10: Found 2 books
+2025-11-27 00:30:28,809 - INFO -   Category total: 92 books
+2025-11-27 00:30:28,810 - INFO -   Fetching detailed information for 92 books...
+2025-11-27 00:30:32,812 - INFO -   Completed category oil: 92 books with full details
+2025-11-27 00:30:32,812 - INFO - Overall total: 5381 books
+2025-11-27 00:30:34,814 - INFO - 
+[23/34] Processing category: /az/category/commun
+2025-11-27 00:30:34,814 - INFO - 
+Scraping category: commun
+2025-11-27 00:30:34,913 - INFO -   Total pages detected: 2
+2025-11-27 00:30:34,925 - INFO -   Page 1/2: Found 10 books
+2025-11-27 00:30:35,014 - INFO -   Page 2/2: Found 4 books
+2025-11-27 00:30:35,517 - INFO -   Category total: 14 books
+2025-11-27 00:30:35,517 - INFO -   Fetching detailed information for 14 books...
+2025-11-27 00:30:37,220 - INFO -   Completed category commun: 14 books with full details
+2025-11-27 00:30:37,220 - INFO - Overall total: 5395 books
+2025-11-27 00:30:39,222 - INFO - 
+[24/34] Processing category: /az/category/techscien
+2025-11-27 00:30:39,223 - INFO - 
+Scraping category: techscien
+2025-11-27 00:30:39,358 - INFO -   Total pages detected: 10
+2025-11-27 00:30:39,366 - INFO -   Page 1/10: Found 10 books
+2025-11-27 00:30:39,477 - INFO -   Page 2/10: Found 10 books
+2025-11-27 00:30:40,129 - INFO -   Page 3/10: Found 10 books
+2025-11-27 00:30:40,776 - INFO -   Page 4/10: Found 10 books
+2025-11-27 00:30:41,410 - INFO -   Page 5/10: Found 10 books
+2025-11-27 00:30:42,044 - INFO -   Page 6/10: Found 10 books
+2025-11-27 00:30:42,684 - INFO -   Page 7/10: Found 10 books
+2025-11-27 00:30:43,326 - INFO -   Page 8/10: Found 10 books
+2025-11-27 00:30:43,963 - INFO -   Page 9/10: Found 10 books
+2025-11-27 00:30:44,598 - INFO -   Page 10/10: Found 6 books
+2025-11-27 00:30:45,100 - INFO -   Category total: 96 books
+2025-11-27 00:30:45,101 - INFO -   Fetching detailed information for 96 books...
+2025-11-27 00:30:48,752 - INFO -   Completed category techscien: 96 books with full details
+2025-11-27 00:30:48,752 - INFO - Overall total: 5491 books
+2025-11-27 00:30:50,754 - INFO - 
+[25/34] Processing category: /az/category/architec
+2025-11-27 00:30:50,755 - INFO - 
+Scraping category: architec
+2025-11-27 00:30:50,860 - INFO -   Total pages detected: 4
+2025-11-27 00:30:50,871 - INFO -   Page 1/4: Found 10 books
+2025-11-27 00:30:50,972 - INFO -   Page 2/4: Found 10 books
+2025-11-27 00:30:51,584 - INFO -   Page 3/4: Found 10 books
+2025-11-27 00:30:52,200 - INFO -   Page 4/4: Found 9 books
+2025-11-27 00:30:52,702 - INFO -   Category total: 39 books
+2025-11-27 00:30:52,703 - INFO -   Fetching detailed information for 39 books...
+2025-11-27 00:30:55,016 - INFO -   Completed category architec: 39 books with full details
+2025-11-27 00:30:55,016 - INFO - Overall total: 5530 books
+2025-11-27 00:30:57,018 - INFO - 
+[26/34] Processing category: /az/category/agriculture
+2025-11-27 00:30:57,018 - INFO - 
+Scraping category: agriculture
+2025-11-27 00:30:57,137 - INFO -   Total pages detected: 6
+2025-11-27 00:30:57,149 - INFO -   Page 1/6: Found 10 books
+2025-11-27 00:30:57,263 - INFO -   Page 2/6: Found 10 books
+2025-11-27 00:30:57,886 - INFO -   Page 3/6: Found 10 books
+2025-11-27 00:30:58,509 - INFO -   Page 4/6: Found 10 books
+2025-11-27 00:30:59,116 - INFO -   Page 5/6: Found 10 books
+2025-11-27 00:30:59,739 - INFO -   Page 6/6: Found 7 books
+2025-11-27 00:31:00,242 - INFO -   Category total: 57 books
+2025-11-27 00:31:00,242 - INFO -   Fetching detailed information for 57 books...
+2025-11-27 00:31:02,529 - INFO -   Completed category agriculture: 57 books with full details
+2025-11-27 00:31:02,529 - INFO - Overall total: 5587 books
+2025-11-27 00:31:04,532 - INFO - 
+[27/34] Processing category: /az/category/tours
+2025-11-27 00:31:04,532 - INFO - 
+Scraping category: tours
+2025-11-27 00:31:04,641 - INFO -   Total pages detected: 4
+2025-11-27 00:31:04,649 - INFO -   Page 1/4: Found 10 books
+2025-11-27 00:31:04,744 - INFO -   Page 2/4: Found 10 books
+2025-11-27 00:31:05,340 - INFO -   Page 3/4: Found 10 books
+2025-11-27 00:31:05,941 - INFO -   Page 4/4: Found 1 books
+2025-11-27 00:31:06,444 - INFO -   Category total: 31 books
+2025-11-27 00:31:06,444 - INFO -   Fetching detailed information for 31 books...
+2025-11-27 00:31:07,771 - INFO -   Completed category tours: 31 books with full details
+2025-11-27 00:31:07,771 - INFO - Overall total: 5618 books
+2025-11-27 00:31:09,773 - INFO - 
+[28/34] Processing category: /az/category/customs
+2025-11-27 00:31:09,773 - INFO - 
+Scraping category: customs
+2025-11-27 00:31:09,867 - INFO -   Total pages detected: 2
+2025-11-27 00:31:09,876 - INFO -   Page 1/2: Found 10 books
+2025-11-27 00:31:09,967 - INFO -   Page 2/2: Found 4 books
+2025-11-27 00:31:10,470 - INFO -   Category total: 14 books
+2025-11-27 00:31:10,470 - INFO -   Fetching detailed information for 14 books...
+2025-11-27 00:31:11,163 - INFO -   Completed category customs: 14 books with full details
+2025-11-27 00:31:11,163 - INFO - Overall total: 5632 books
+2025-11-27 00:31:13,166 - INFO - 
+[29/34] Processing category: /az/category/health
+2025-11-27 00:31:13,166 - INFO - 
+Scraping category: health
+2025-11-27 00:31:13,295 - INFO -   Total pages detected: 9
+2025-11-27 00:31:13,308 - INFO -   Page 1/9: Found 10 books
+2025-11-27 00:31:13,432 - INFO -   Page 2/9: Found 10 books
+2025-11-27 00:31:14,060 - INFO -   Page 3/9: Found 10 books
+2025-11-27 00:31:14,690 - INFO -   Page 4/9: Found 10 books
+2025-11-27 00:31:15,325 - INFO -   Page 5/9: Found 10 books
+2025-11-27 00:31:15,965 - INFO -   Page 6/9: Found 10 books
+2025-11-27 00:31:16,593 - INFO -   Page 7/9: Found 10 books
+2025-11-27 00:31:17,233 - INFO -   Page 8/9: Found 10 books
+2025-11-27 00:31:17,860 - INFO -   Page 9/9: Found 4 books
+2025-11-27 00:31:18,362 - INFO -   Category total: 84 books
+2025-11-27 00:31:18,363 - INFO -   Fetching detailed information for 84 books...
+2025-11-27 00:31:21,659 - INFO -   Completed category health: 84 books with full details
+2025-11-27 00:31:21,659 - INFO - Overall total: 5716 books
+2025-11-27 00:31:23,661 - INFO - 
+[30/34] Processing category: /az/category/military
+2025-11-27 00:31:23,662 - INFO - 
+Scraping category: military
+2025-11-27 00:31:23,765 - INFO -   Total pages detected: 4
+2025-11-27 00:31:23,777 - INFO -   Page 1/4: Found 10 books
+2025-11-27 00:31:23,887 - INFO -   Page 2/4: Found 10 books
+2025-11-27 00:31:24,518 - INFO -   Page 3/4: Found 10 books
+2025-11-27 00:31:25,123 - INFO -   Page 4/4: Found 6 books
+2025-11-27 00:31:25,626 - INFO -   Category total: 36 books
+2025-11-27 00:31:25,626 - INFO -   Fetching detailed information for 36 books...
+2025-11-27 00:31:27,185 - INFO -   Completed category military: 36 books with full details
+2025-11-27 00:31:27,185 - INFO - Overall total: 5752 books
+2025-11-27 00:31:29,185 - INFO - 
+[31/34] Processing category: /az/category/spo
+2025-11-27 00:31:29,185 - INFO - 
+Scraping category: spo
+2025-11-27 00:31:29,283 - INFO -   Total pages detected: 3
+2025-11-27 00:31:29,290 - INFO -   Page 1/3: Found 10 books
+2025-11-27 00:31:29,378 - INFO -   Page 2/3: Found 10 books
+2025-11-27 00:31:29,974 - INFO -   Page 3/3: Found 2 books
+2025-11-27 00:31:30,476 - INFO -   Category total: 22 books
+2025-11-27 00:31:30,476 - INFO -   Fetching detailed information for 22 books...
+2025-11-27 00:31:31,456 - INFO -   Completed category spo: 22 books with full details
+2025-11-27 00:31:31,456 - INFO - Overall total: 5774 books
+2025-11-27 00:31:33,458 - INFO - 
+[32/34] Processing category: /az/category/statistics
+2025-11-27 00:31:33,458 - INFO - 
+Scraping category: statistics
+2025-11-27 00:31:33,563 - INFO -   Total pages detected: 3
+2025-11-27 00:31:33,577 - INFO -   Page 1/3: Found 10 books
+2025-11-27 00:31:33,670 - INFO -   Page 2/3: Found 10 books
+2025-11-27 00:31:34,257 - INFO -   Page 3/3: Found 2 books
+2025-11-27 00:31:34,759 - INFO -   Category total: 22 books
+2025-11-27 00:31:34,759 - INFO -   Fetching detailed information for 22 books...
+2025-11-27 00:31:35,813 - INFO -   Completed category statistics: 22 books with full details
+2025-11-27 00:31:35,813 - INFO - Overall total: 5796 books
+2025-11-27 00:31:37,815 - INFO - 
+[33/34] Processing category: /az/category/ecology
+2025-11-27 00:31:37,815 - INFO - 
+Scraping category: ecology
+2025-11-27 00:31:37,943 - INFO -   Total pages detected: 10
+2025-11-27 00:31:37,953 - INFO -   Page 1/10: Found 10 books
+2025-11-27 00:31:38,077 - INFO -   Page 2/10: Found 10 books
+2025-11-27 00:31:38,718 - INFO -   Page 3/10: Found 10 books
+2025-11-27 00:31:39,349 - INFO -   Page 4/10: Found 10 books
+2025-11-27 00:31:39,987 - INFO -   Page 5/10: Found 10 books
+2025-11-27 00:31:40,613 - INFO -   Page 6/10: Found 10 books
+2025-11-27 00:31:41,248 - INFO -   Page 7/10: Found 10 books
+2025-11-27 00:31:41,892 - INFO -   Page 8/10: Found 10 books
+2025-11-27 00:31:42,525 - INFO -   Page 9/10: Found 10 books
+2025-11-27 00:31:43,149 - INFO -   Page 10/10: Found 3 books
+2025-11-27 00:31:43,651 - INFO -   Category total: 93 books
+2025-11-27 00:31:43,652 - INFO -   Fetching detailed information for 93 books...
+2025-11-27 00:31:47,610 - INFO -   Completed category ecology: 93 books with full details
+2025-11-27 00:31:47,610 - INFO - Overall total: 5889 books
+2025-11-27 00:31:49,613 - INFO - 
+[34/34] Processing category: /az/category/refeditions
+2025-11-27 00:31:49,613 - INFO - 
+Scraping category: refeditions
+2025-11-27 00:31:49,747 - INFO -   Total pages detected: 13
+2025-11-27 00:31:49,758 - INFO -   Page 1/13: Found 10 books
+2025-11-27 00:31:49,885 - INFO -   Page 2/13: Found 10 books
+2025-11-27 00:31:50,527 - INFO -   Page 3/13: Found 10 books
+2025-11-27 00:31:51,167 - INFO -   Page 4/13: Found 10 books
+2025-11-27 00:31:51,798 - INFO -   Page 5/13: Found 10 books
+2025-11-27 00:31:52,443 - INFO -   Page 6/13: Found 10 books
+2025-11-27 00:31:53,077 - INFO -   Page 7/13: Found 10 books
+2025-11-27 00:31:53,723 - INFO -   Page 8/13: Found 10 books
+2025-11-27 00:31:54,367 - INFO -   Page 9/13: Found 10 books
+2025-11-27 00:31:55,009 - INFO -   Page 10/13: Found 10 books
+2025-11-27 00:31:55,652 - INFO -   Page 11/13: Found 10 books
+2025-11-27 00:31:56,290 - INFO -   Page 12/13: Found 10 books
+2025-11-27 00:31:56,934 - INFO -   Page 13/13: Found 4 books
+2025-11-27 00:31:57,436 - INFO -   Category total: 124 books
+2025-11-27 00:31:57,437 - INFO -   Fetching detailed information for 124 books...
+2025-11-27 00:32:02,198 - INFO -   Completed category refeditions: 124 books with full details
+2025-11-27 00:32:02,198 - INFO - Overall total: 6013 books
+2025-11-27 00:32:04,201 - INFO - 
+
+Scraping complete! Total books collected: 6013
+2025-11-27 00:32:04,201 - INFO - Saving to CSV...
+2025-11-27 00:32:04,231 - INFO - Data saved to ebooks_az_all_books_detailed.csv
+2025-11-27 00:32:04,231 - INFO - Total records: 6013
