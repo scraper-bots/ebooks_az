@@ -1,0 +1,19 @@
+============================================================
+EBOOKS.AZ DATA INSIGHTS SUMMARY
+============================================================
+
+Total Books Scraped: 6,013
+Total Categories: 34
+Date Range: 1904 - 2025
+
+Top Category: historyaz (1,315 books)
+Top Publisher: Elm və təhsil (459 books)
+Top Author: Əliyev İlham Heydər oğlu (145 books)
+
+Most Productive Year: 2013 (266 books)
+Recent 5-Year Average: 152.0 books/year
+
+Average Page Count: 295 pages
+Median Page Count: 253 pages
+
+Top Publication Place: Bakı (4,696 books)
