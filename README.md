@@ -16,7 +16,7 @@ This project contains high-performance web scrapers to extract and analyze book 
 - **Top Category:** Azerbaijan History (historyaz) with 1,315 books (21.9% of collection)
 - **Most Productive Year:** 2013 (266 books published)
 - **Average Book Length:** 295 pages
-- **Primary Publication Hub:** Bakı (78.1% of all books)
+- **Primary Publication Hub:** Bakı (89.4% of all books - 5,377 books)
 
 ### Category Distribution
 
@@ -126,9 +126,9 @@ This project contains high-performance web scrapers to extract and analyze book 
 ![Publication Places](charts/07_publication_places.png)
 
 **Key Insights:**
-- **Bakı dominance**: 4,696 books (78.1%) published in capital
-- **Regional gap**: Minimal representation from other cities
-- **Centralization**: Publishing industry heavily concentrated in capital
+- **Bakı dominance**: 5,377 books (89.4%) published in capital (consolidated from various spellings: Bakı, Baku, Bakü, Bakou, Bəkü, Баку)
+- **Regional gap**: Minimal representation from other cities (Naxçıvan: 88, Gəncə: 52, Sumqayıt: 16)
+- **Centralization**: Publishing industry heavily concentrated in capital - nearly 9 out of 10 books
 
 **Actionable Recommendations:**
 1. **Regional Expansion**: Partner with regional publishers to diversify content

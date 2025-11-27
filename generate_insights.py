@@ -23,6 +23,27 @@ print(f"Columns: {df.columns.tolist()}")
 df['year'] = pd.to_numeric(df['year'], errors='coerce')
 df['page_count'] = pd.to_numeric(df['page_count'], errors='coerce')
 
+# Normalize publication places (consolidate different spellings of Baku and other cities)
+def normalize_place(place):
+    if pd.isna(place) or place == '':
+        return place
+    # Normalize Baku variations to standard Azerbaijani spelling
+    baku_variations = ['Baku', 'Bakü', 'Bakou', 'Bəkü', 'Баку']  # Added Cyrillic
+    if place in baku_variations:
+        return 'Bakı'
+    # Normalize Moscow variations
+    if place == 'Москва':
+        return 'Moscow'
+    # Normalize Saint Petersburg
+    if place == 'Санкт-Петербург':
+        return 'Saint Petersburg'
+    # Normalize Ganja variations
+    if place == 'Cəncə':
+        return 'Gəncə'
+    return place
+
+df['publication_place'] = df['publication_place'].apply(normalize_place)
+
 # Filter valid years (1900-2025)
 df_year_filtered = df[(df['year'] >= 1900) & (df['year'] <= 2025)]
 
